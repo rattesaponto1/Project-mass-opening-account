@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih 2</name>
+   <tag></tag>
+   <elementGuidId>39794e83-ad64-4046-afcb-e0c6028ca4d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gridUser']/tbody/tr[3]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.r1 > td > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0ac3fd9-6e68-4ba0-a36e-95ce1f8882a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('gridUser','Select$1')</value>
+      <webElementGuid>0ba7b1a9-d933-49e2-b9e2-ca0068d53359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih</value>
+      <webElementGuid>b8f66af6-dfbe-45ae-8c03-44a602715cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridUser&quot;)/tbody[1]/tr[@class=&quot;r1&quot;]/td[1]/a[1]</value>
+      <webElementGuid>0961e807-c8f0-479e-b78b-89329730b753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Mass Opening Upload/SYS/Page_DEV Agro Banking System/iframe_ke 2</value>
+      <webElementGuid>48257227-3285-42b3-8b92-10e6572fac87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gridUser']/tbody/tr[3]/td/a</value>
+      <webElementGuid>12ad77f7-c838-4a21-ad2b-1442ac830655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pilih')])[2]</value>
+      <webElementGuid>7965ef11-32aa-46c1-8773-0d3f427f6cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/following::a[1]</value>
+      <webElementGuid>fa8dfaac-1af0-4a83-a2a8-3966c77581ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::a[1]</value>
+      <webElementGuid>2612e11e-33fa-476e-8115-071a9a47b287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arini Ungky'])[1]/preceding::a[1]</value>
+      <webElementGuid>a89545a9-b1c1-4f9d-a557-32ce504c7673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MP'])[1]/preceding::a[1]</value>
+      <webElementGuid>8172e978-12da-4411-9b2f-3957574b72ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('gridUser','Select$1')&quot;)]</value>
+      <webElementGuid>0baaf6d9-6b47-49d7-9e6c-221184d190d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/a</value>
+      <webElementGuid>9ebfbb3f-b53e-428a-b6f7-8dfedb45df6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;gridUser&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Select$1&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Pilih' or . = 'Pilih')]</value>
+      <webElementGuid>c713092f-f9eb-4ab9-83c1-43eab2e94265</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Inquiry CIF</name>
+   <tag></tag>
+   <elementGuidId>63c6034b-494b-43af-abb9-afd338d01a51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;parent.loadFrame('http://172.31.1.93:9000//NONMONETARY/CIF/Inquiry_CIF.aspx');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df13edb7-25e7-4afb-90a2-8f215694ecd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkmenu</value>
+      <webElementGuid>f0db65ed-3af0-404a-a6f0-f5fdd06d72c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>parent.loadFrame('http://172.31.1.93:9000//NONMONETARY/CIF/Inquiry_CIF.aspx');</value>
+      <webElementGuid>043d2ead-1ce0-4238-a0ee-829eaf69fef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Melihat detail dari sebuah CIF</value>
+      <webElementGuid>004ea82a-02c1-4776-90c2-68f50c040983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inquiry CIF</value>
+      <webElementGuid>a9eb49f9-b3aa-4ab9-88ab-1e9ca73fc089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menucontainer&quot;)/table[@class=&quot;submenu&quot;]/tbody[1]/tr[1]/td[2]/a[@class=&quot;linkmenu&quot;]</value>
+      <webElementGuid>a3a8c9f9-8f95-4f8d-bb09-91b6698e170c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/CIF/Inquiry CIF/Page_DEV Agro Banking System/iframe_ke 2</value>
+      <webElementGuid>072459bb-a719-4c93-8474-ff76557b2a26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;parent.loadFrame('http://172.31.1.93:9000//NONMONETARY/CIF/Inquiry_CIF.aspx');&quot;]</value>
+      <webElementGuid>5b9d7bd2-d492-4ddb-b8d7-1fca02d2a28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menucontainer']/table[3]/tbody/tr/td[2]/a</value>
+      <webElementGuid>cacb0d87-a392-47d8-a014-fc3295bd199f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Inquiry CIF')]</value>
+      <webElementGuid>19bd9050-ce19-4af1-ac9a-814479ea5c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembuatan CIF Badan Usaha'])[1]/following::a[1]</value>
+      <webElementGuid>03fa0d9e-2618-4a3d-9de1-5d024838e4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembuatan CIF Perseorangan'])[1]/following::a[2]</value>
+      <webElementGuid>a62c78c5-685d-4de3-92a7-8a0de8743377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemeliharaan CIF'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d9f21e0-73c8-4d13-827c-8dc8c7e541eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Nama Teroris'])[1]/preceding::a[2]</value>
+      <webElementGuid>66a7c94b-d0a7-4fee-ac58-cb4f03a7f4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inquiry CIF']/parent::*</value>
+      <webElementGuid>220871ae-5a19-4fc1-8f5b-e1901a2bceda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr/td[2]/a</value>
+      <webElementGuid>236118d9-34d4-4bab-a478-aa9ea7a25aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Melihat detail dari sebuah CIF' and (text() = 'Inquiry CIF' or . = 'Inquiry CIF')]</value>
+      <webElementGuid>ed51fe08-3cdc-4fad-872a-877884f3460b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

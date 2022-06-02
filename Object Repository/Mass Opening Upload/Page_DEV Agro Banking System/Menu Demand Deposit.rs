@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Demand Deposit</name>
+   <tag></tag>
+   <elementGuidId>494b7c6e-6cc5-4d48-8c0c-6bde3927f6a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;parent.loadFrame('SubMenu.aspx?p=12');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Menu-menu yang berhubungan dengan Rekening Demand Deposit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>735e41ea-891c-41b2-a26e-eaaf962d3680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>parent.loadFrame('SubMenu.aspx?p=12');</value>
+      <webElementGuid>ea5eff22-e347-4024-a734-f2d80d307673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Menu-menu yang berhubungan dengan Rekening Demand Deposit</value>
+      <webElementGuid>5d268f48-11b4-4968-aa81-5a944630516f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demand Deposit</value>
+      <webElementGuid>c6592c2a-4a60-4acb-926c-d418d23d5e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu1&quot;)/li[3]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>48fb79b0-0f52-4802-b3e3-6848a809348c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/iframe_ke 1</value>
+      <webElementGuid>4887c019-3d54-4387-8019-edfd868aaa03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;parent.loadFrame('SubMenu.aspx?p=12');&quot;]</value>
+      <webElementGuid>50417a9d-6a2b-4b03-84bf-630753f27ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu1']/li[3]/ul/li[2]/a</value>
+      <webElementGuid>88bbda03-0b4f-476f-961d-0be8434ee014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Demand Deposit')]</value>
+      <webElementGuid>c89dd94b-666a-4fe7-8cd9-bb04082c545b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIF'])[1]/following::a[1]</value>
+      <webElementGuid>690db4ad-6f43-4c53-a505-a9e9cd4e03ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::a[3]</value>
+      <webElementGuid>1caa7e2b-063e-4079-878e-a6d74d7141bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan'])[1]/preceding::a[1]</value>
+      <webElementGuid>947d4da8-f8e2-4a1d-becf-4922fd887e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificate Of Deposit'])[1]/preceding::a[2]</value>
+      <webElementGuid>e6667081-03e7-4f28-b6c8-03a2a4ebef87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demand Deposit']/parent::*</value>
+      <webElementGuid>cccf84a5-f70c-41b5-897a-62983decd465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>fbf41e66-bc90-4eb0-aafc-2ccae239486f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Menu-menu yang berhubungan dengan Rekening Demand Deposit' and (text() = 'Demand Deposit' or . = 'Demand Deposit')]</value>
+      <webElementGuid>b1d4db4d-8369-45fd-b2bf-31813457a86e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

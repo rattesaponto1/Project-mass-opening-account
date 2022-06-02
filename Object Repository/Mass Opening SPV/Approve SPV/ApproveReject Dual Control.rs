@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ApproveReject Dual Control</name>
+   <tag></tag>
+   <elementGuidId>a1873cde-629f-4b7c-8874-e9d0cf0ae104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;parent.loadFrame('http://172.31.1.93:9000//NONMONETARY/GENERAL/ApproveRejectDualControl.aspx');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.linkmenu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0a7f1150-b60a-4494-bbbb-92b522fee613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkmenu</value>
+      <webElementGuid>990d757b-6841-4f32-a7c7-114577747277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>parent.loadFrame('http://172.31.1.93:9000//NONMONETARY/GENERAL/ApproveRejectDualControl.aspx');</value>
+      <webElementGuid>1646c3b4-8d1b-40d3-bf09-e8c9b4f68890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Melakukan Approval transaksi Non Monetary yang membutuhkan Otorisasi Supervisor</value>
+      <webElementGuid>3651e480-2995-42f3-adb9-f4130b2779f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve/Reject Dual Control</value>
+      <webElementGuid>d7460d15-b2b7-45d2-bc28-2c16ef4d0264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menucontainer&quot;)/table[@class=&quot;submenu&quot;]/tbody[1]/tr[1]/td[2]/a[@class=&quot;linkmenu&quot;]</value>
+      <webElementGuid>3238036d-e72b-45d1-b6b4-603c8f6be97e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Mass Opening SPV/Approve SPV/iframe_ke 2</value>
+      <webElementGuid>b85574da-5b8f-4dd9-a0e2-2065e0faba90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;parent.loadFrame('http://172.31.1.93:9000//NONMONETARY/GENERAL/ApproveRejectDualControl.aspx');&quot;]</value>
+      <webElementGuid>6f958797-61d7-45a6-a3ca-dd67e8a22999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menucontainer']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>1ae5c800-8a24-495a-82bc-40634f619306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Approve/Reject Dual Control')]</value>
+      <webElementGuid>d911b165-8363-432d-8317-13a035edcf31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL'])[1]/following::a[1]</value>
+      <webElementGuid>16b9c55d-a916-40af-b41b-a18081204369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monetary Pending Transaction'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f09a292-e193-47a4-87d5-2eb5ec840679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Rekening GL'])[1]/preceding::a[2]</value>
+      <webElementGuid>6ddf2384-de6b-437d-8f53-5f9593e75ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve/Reject Dual Control']/parent::*</value>
+      <webElementGuid>4859cbaa-e680-4e23-945d-01f2e417638b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>7d597069-6bb2-4011-bef6-b9bcd36aad9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Melakukan Approval transaksi Non Monetary yang membutuhkan Otorisasi Supervisor' and (text() = 'Approve/Reject Dual Control' or . = 'Approve/Reject Dual Control')]</value>
+      <webElementGuid>d2a6e96a-0f04-4ab0-955e-3ed01693d8bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

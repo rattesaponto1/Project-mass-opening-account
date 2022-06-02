@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih 2</name>
+   <tag></tag>
+   <elementGuidId>b86409ed-be43-4601-b049-6e7cd63705d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;gv&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Select$2&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Pilih' or . = 'Pilih')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gv']/tbody/tr[4]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1f14ceb-acd7-48e6-b192-e8e37e684af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('gv','Select$2')</value>
+      <webElementGuid>e8731cbd-a8aa-4fe6-9e00-258164dfea94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih</value>
+      <webElementGuid>a2a35f96-a2be-41da-96cc-405a3334daff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gv&quot;)/tbody[1]/tr[4]/td[1]/a[1]</value>
+      <webElementGuid>bb8deb9f-d0e7-469a-8091-485d40805292</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gv']/tbody/tr[4]/td/a</value>
+      <webElementGuid>b40aed0c-5ded-4d33-b847-0964cd0cbc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pilih')])[3]</value>
+      <webElementGuid>414634ed-8e7f-45cf-b5cb-205235b2530e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nanang Agus Sugihanto'])[1]/following::a[1]</value>
+      <webElementGuid>d2f5d26d-0972-4f35-9b21-a7e2abb1b7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[2]/following::a[1]</value>
+      <webElementGuid>43a34812-ad22-4efb-94d3-8ca03e229275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agus Budi Setyoko'])[1]/preceding::a[1]</value>
+      <webElementGuid>dd47e1f6-1224-4d1f-bced-0a7c278a97a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[4]/preceding::a[1]</value>
+      <webElementGuid>c12231d9-91ae-4803-9341-91e67bd8a8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('gv','Select$2')&quot;)]</value>
+      <webElementGuid>f5482e84-8a25-4aff-8cbe-61acf9d61b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/a</value>
+      <webElementGuid>d86ba2fa-0a50-442d-ad41-b4e280de6fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;gv&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Select$2&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Pilih' or . = 'Pilih')]</value>
+      <webElementGuid>591d5437-88de-4016-8fe1-14bca66fa5c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
