@@ -87,7 +87,7 @@ switch (referral.toString()) {
 	break
 }
 
-//WebUI.switchToWindowTitle('[DEV] Agro Banking System')
+WebUI.switchToWindowTitle('[DEV] Agro Banking System')
 
 // SPV
 WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/SPV'), spv, 
