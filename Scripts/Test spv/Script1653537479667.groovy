@@ -91,7 +91,7 @@ switch (pilihDetail.toString()) {
 		break
 }
 
-WebUI.click(findTestObject('Object Repository/Mass Opening SPV/Approve SPV/input_Approval Comment_btnBack'))
+//WebUI.click(findTestObject('Object Repository/Mass Opening SPV/Approve SPV/input_Approval Comment_btnBack'))
 
 //WebUI.click(findTestObject('Object Repository/Mass Opening SPV/Approve SPV/detail'))
 
