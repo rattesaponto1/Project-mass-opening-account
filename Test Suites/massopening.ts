@@ -210,7 +210,7 @@
    <testCaseLink>
       <guid>e62e52a0-5d4f-4f62-abd2-4fbcd45f487d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Negative case/CBS_MASS_ACCOUNT_1.7</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -257,6 +257,58 @@
          <type>DATA_COLUMN</type>
          <value>pilihan</value>
          <variableId>d9db1c8d-cb83-48f3-a0b2-9d329e1347e4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1b8db916-7396-4d9b-888f-8b58d250b848</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Negative case/CBS_MASS_ACCOUNT_1.2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/binding</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>e4f1e55f-23e2-4038-af37-8f3ff604d853</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>productType</value>
+         <variableId>ef6c17b9-c2a3-472d-927e-4593a12ebcea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>officer</value>
+         <variableId>14ad2e08-6544-4d58-9b70-764c17a3e3b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>spv</value>
+         <variableId>19fe49d8-7daf-476c-bbc1-737f02889e1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>referral</value>
+         <variableId>d17538d3-7373-47c9-bcf7-d232da5611e1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce824fe5-9c73-4662-b835-8c7ab9e26c2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pilihan</value>
+         <variableId>3f029527-85c4-4b32-be77-a0be851df730</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
