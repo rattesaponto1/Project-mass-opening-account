@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>d53e3740-e9e4-44e7-9332-cd48c7c0a568</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Positive Case Mass Opening/Mass Opening Upload</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -66,7 +66,7 @@
    <testCaseLink>
       <guid>ff26b078-af18-4f5b-97db-bfdf9cc1ddee</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Test spv</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -205,6 +205,58 @@
          <type>DATA_COLUMN</type>
          <value>pilihan</value>
          <variableId>3857b56a-b6e5-48ca-9b18-fa019be6548d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e62e52a0-5d4f-4f62-abd2-4fbcd45f487d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Negative case/CBS_MASS_ACCOUNT_1.7</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9abc8134-12ba-43e7-af8e-01fb476242f1</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/binding</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9abc8134-12ba-43e7-af8e-01fb476242f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>ea19b0cd-a314-461b-8825-581893c0c31d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9abc8134-12ba-43e7-af8e-01fb476242f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>productType</value>
+         <variableId>147c48ed-432f-4c7c-a16e-a8cb84f516b1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9abc8134-12ba-43e7-af8e-01fb476242f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>officer</value>
+         <variableId>282f1d29-8dee-4961-8927-f46941efc0ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9abc8134-12ba-43e7-af8e-01fb476242f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>spv</value>
+         <variableId>b254aca5-1da3-4e5f-98cb-b4d45e4f3042</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9abc8134-12ba-43e7-af8e-01fb476242f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>referral</value>
+         <variableId>021e67cf-7167-4694-b404-342946462e20</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9abc8134-12ba-43e7-af8e-01fb476242f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pilihan</value>
+         <variableId>d9db1c8d-cb83-48f3-a0b2-9d329e1347e4</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

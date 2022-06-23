@@ -21,91 +21,80 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(url)
 
-WebUI.callTestCase(findTestCase('Login'), [('username') : '0020014', ('password') : '000000', ('usernameSYS') : 'SYS', ('passwordSYS') : '00000000'], 
-    FailureHandling.OPTIONAL)
+WebUI.callTestCase(findTestCase('Login'), [('username') : '0020014', ('password') : '00000000', ('usernameSYS') : 'SYS', ('passwordSYS') : '00000000'],
+	FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/Sub Menu_Pembukaan Rekening Massal'))
 
 WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/Upload Baru'))
 
-WebUI.uploadFile(findTestObject('Mass Opening Upload/Page_DEV Agro Banking System/Choose File'), 'C:\\Users\\Owner\\Downloads\\Format.xlsx')
+WebUI.uploadFile(findTestObject('Mass Opening Upload/Page_DEV Agro Banking System/Choose File'), 'C:\\Users\\Owner\\Downloads\\Format.pdf')
 
 // Product Type 00069,00070,00071
-WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'), 
-    productType, true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'),
+	productType, true)
 
 //Kode Officer
-WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/Kode Officer'), 
-    officer, true)
-
+WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/Kode Officer'),
+	officer, true)
 
 WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/btn_cari Referral'))
 
 WebUI.switchToWindowTitle('Cari NIK Karyawan')
 
 switch (referral.toString()) {
-	
 	case 'USERNAME':
-	
-		WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/select_NAMAKODE'), 
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/select_NAMAKODE'),
 			'USERNAME', true)
-	
-		WebUI.setText(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/kata kunci'), 'Agus')
-		
+
+		WebUI.setText(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/kata kunci'),
+			'Agus')
+
 		WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/btnCari'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/Pilih'))
-	
-	break
-	
+
+		break
 	case 'USERID':
-	
 		WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/select_NAMAKODE'),
 			'USERID', true)
-		
-		WebUI.setText(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/kata kunci'), 'Agus')
-		
+
+		WebUI.setText(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/kata kunci'),
+			'Agus')
+
 		WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/btnCari'))
-		
+
 		switch (pilihan.toString()) {
-			
-			case 'pilih1' :
-			
-			WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/Pilih'))
-			
-			break
-			
-			case 'pilih2' :
-			
-			WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/Pilih 2'))
-			
-			break
+			case 'pilih1':
+				WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/Pilih'))
+
+				break
+			case 'pilih2':
+				WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/Pilih 2'))
+
+				break
 		}
 		
 		WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_Cari NIK Karyawan_Referral/Pilih'))
-	
-	break
+
+		break
 }
 
 WebUI.switchToWindowTitle('[DEV] Agro Banking System')
 
 // SPV
-WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/SPV'), spv, 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/SPV'), spv,
+	true)
 
 WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/btnUpload'))
- 
+
 WebUI.acceptAlert()
 
-//WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/btnPrint'))
-
-//WebUI.switchToWindowTitle('172.31.1.93:9000//NONMONETARY/DataStatis.aspx')
-
-//WebUI.acceptAlert()
-
-//WebUI.switchToWindowTitle('[DEV] Agro Banking System')
-
-//WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/input__btnBack2'))
+if (WebUI.verifyTextPresent('File not Supported', true, FailureHandling.OPTIONAL)) {
+	WebUI.comment('True')
+} else {
+	WebUI.comment('False')
+}
 
 WebUI.switchToDefaultContent()
 
