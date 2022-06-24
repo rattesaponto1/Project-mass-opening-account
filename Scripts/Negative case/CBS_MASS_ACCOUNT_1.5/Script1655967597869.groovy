@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(url)
 
+WebUI.maximizeWindow(FailureHandling.OPTIONAL)
+
 WebUI.callTestCase(findTestCase('Login'), [('username') : '0020014', ('password') : '00000000', ('usernameSYS') : 'SYS', ('passwordSYS') : '00000000'], 
     FailureHandling.OPTIONAL)
 
@@ -37,7 +39,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/
 if (WebUI.verifyOptionPresentByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'), 
     '00005', true, 0, FailureHandling.OPTIONAL)) {
 
-    WebUI.comment('Product Type tidak sesuai')
+    WebUI.comment('Product Type 00005')
 	
 	WebUI.comment('Negative case success')
 	

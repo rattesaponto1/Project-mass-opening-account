@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>CBS_MASS_ACCOUNT_1.2</name>
+   <name>CBS_MASS_ACCOUNT_1.3</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>495d00a1-364b-4cf5-91ec-c67714f0e532</testCaseGuid>
+   <testCaseGuid>17b72f96-53a2-4f36-b37d-46bc5f67bda7</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>051aa742-4dab-4e4b-bdbc-cc9aa8431af4</variableId>
+      <variableId>98300182-f679-42f9-ba77-b021c2c80614</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>ae8b38a5-dd11-48f3-8e47-0f2ba9707362</variableId>
+      <variableId>f3db0158-0d23-401c-8e16-032d106724f6</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5f70a790-0806-4458-8b10-19410f5f855e</variableId>
+      <variableId>ea96e18e-9ee9-4e4a-90d3-f00d2df79afb</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5ab697e8-b3df-4fc9-90cd-7bc44d440c81</variableId>
+      <variableId>51522009-3617-4d1f-933c-61fee6c61578</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>4e78f9fe-2c41-4acd-9b84-b39943eb6c3d</variableId>
+      <variableId>5045317d-0e42-4c1b-9438-7dc255d673e1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>4bfc73ee-aca0-41b4-9b90-5497dad0b6dc</variableId>
+      <variableId>a3f1ad10-fc84-4b21-9b05-91149b1a55f9</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>051aa742-4dab-4e4b-bdbc-cc9aa8431af4</id>
+      <id>98300182-f679-42f9-ba77-b021c2c80614</id>
       <masked>false</masked>
       <name>url</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>ae8b38a5-dd11-48f3-8e47-0f2ba9707362</id>
+      <id>f3db0158-0d23-401c-8e16-032d106724f6</id>
       <masked>false</masked>
       <name>productType</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>5f70a790-0806-4458-8b10-19410f5f855e</id>
+      <id>ea96e18e-9ee9-4e4a-90d3-f00d2df79afb</id>
       <masked>false</masked>
       <name>officer</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>5ab697e8-b3df-4fc9-90cd-7bc44d440c81</id>
+      <id>51522009-3617-4d1f-933c-61fee6c61578</id>
       <masked>false</masked>
       <name>spv</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>4e78f9fe-2c41-4acd-9b84-b39943eb6c3d</id>
+      <id>5045317d-0e42-4c1b-9438-7dc255d673e1</id>
       <masked>false</masked>
-      <name>referral</name>
+      <name>variable_3</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>4bfc73ee-aca0-41b4-9b90-5497dad0b6dc</id>
+      <id>a3f1ad10-fc84-4b21-9b05-91149b1a55f9</id>
       <masked>false</masked>
-      <name>pilihan</name>
+      <name>variable_4</name>
    </variable>
 </TestCaseEntity>
