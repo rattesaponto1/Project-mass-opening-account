@@ -33,19 +33,16 @@ WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro 
 WebUI.uploadFile(findTestObject('Mass Opening Upload/Page_DEV Agro Banking System/Choose File'), 'C:\\Users\\Owner\\Downloads\\Format.xlsx')
 
 // Product Type 00069,00070,00071
-WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'), 
-    productType, true)
+WebUI.selectOptionByValue(findTestObject('Mass Opening Upload/Page_DEV Agro Banking System/product Type'), productType, 
+    true)
 
-if (WebUI.verifyOptionPresentByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'), 
-    '00005', true, 0, FailureHandling.OPTIONAL)) {
-
+if (WebUI.verifyOptionSelectedByValue(findTestObject('Mass Opening Upload/Page_DEV Agro Banking System/product Type'), '00005', 
+    false, 0, FailureHandling.OPTIONAL)) {
     WebUI.comment('Product Type 00005')
-	
-	WebUI.comment('Negative case success')
-	
+
+    WebUI.comment('Negative case success')
 } else {
-	
-    WebUI.comment('Product Type 0084')
+    WebUI.comment('Product Type bukan 00005')
 }
 
 //Kode Officer
@@ -109,7 +106,6 @@ WebUI.acceptAlert()
 //WebUI.acceptAlert()
 //WebUI.switchToWindowTitle('[DEV] Agro Banking System')
 //WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/input__btnBack2'))
-
 WebUI.switchToDefaultContent()
 
 WebUI.click(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/Logout'))

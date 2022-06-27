@@ -36,7 +36,7 @@ WebUI.uploadFile(findTestObject('Mass Opening Upload/Page_DEV Agro Banking Syste
 WebUI.selectOptionByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'),
 	productType, true)
 
-if (WebUI.verifyOptionPresentByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'),
+if (WebUI.verifyOptionSelectedByValue(findTestObject('Object Repository/Mass Opening Upload/Page_DEV Agro Banking System/product Type'),
 	'00069', true, 0, FailureHandling.OPTIONAL)) {
 
 	WebUI.comment('Product Type 00069')
