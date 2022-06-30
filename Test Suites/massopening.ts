@@ -467,4 +467,26 @@
          <variableId>d9db1c8d-cb83-48f3-a0b2-9d329e1347e4</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c372e05f-d1af-4260-b94f-d3f40c0750e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Negative case/CBS_MASS_ACCOUNT_1.8</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>955c2805-53e4-494b-8541-73ad28ab3f0a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/binding daftar upload</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>955c2805-53e4-494b-8541-73ad28ab3f0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tanggal</value>
+         <variableId>60658ad5-2a5f-4cbb-a2dc-f9d3d8adcba3</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

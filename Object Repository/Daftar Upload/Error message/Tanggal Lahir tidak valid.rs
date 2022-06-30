@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tanggal Lahir tidak valid</name>
+   <tag></tag>
+   <elementGuidId>3a6968b6-a913-4e47-bdcb-2fcea3562d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gv']/tbody/tr[10]/td[29]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c0d5365d-a191-4982-b2e9-09ff49a96c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanggal Lahir tidak valid</value>
+      <webElementGuid>a0a7e406-4445-4c2e-97dd-95404b37b62b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gv&quot;)/tbody[1]/tr[10]/td[29]</value>
+      <webElementGuid>e8d44c0b-bd0a-4f74-9aa7-77f87e22c81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Daftar Upload/Error message/iframe</value>
+      <webElementGuid>c0883d62-5aec-4215-8b21-41aa1db5fa39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gv']/tbody/tr[10]/td[29]</value>
+      <webElementGuid>c01fb6d9-56b1-4750-8a89-87dd23699729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validasi Error'])[11]/following::td[1]</value>
+      <webElementGuid>2106e0f5-696d-40bf-b24b-5a1c47e5690f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[9]/following::td[3]</value>
+      <webElementGuid>e12ee7f5-7d15-40b0-be9e-4be29cd90b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KE'])[10]/preceding::td[6]</value>
+      <webElementGuid>49cc9196-28ee-4f34-9516-bd791667002b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lulu'])[1]/preceding::td[8]</value>
+      <webElementGuid>8f6dea1d-0a5c-4703-becb-01736af245ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tanggal Lahir tidak valid']/parent::*</value>
+      <webElementGuid>2f33d01a-2984-420c-9037-125e81c8f3cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[29]</value>
+      <webElementGuid>5277e9b0-98c0-4abc-9528-6d9ead064e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Tanggal Lahir tidak valid' or . = 'Tanggal Lahir tidak valid')]</value>
+      <webElementGuid>3ed6e3e0-7528-4c87-b9d2-898d64e5102e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

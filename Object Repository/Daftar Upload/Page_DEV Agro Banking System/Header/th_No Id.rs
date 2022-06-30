@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_No Id</name>
+   <tag></tag>
+   <elementGuidId>837c50f1-9634-4072-a0d5-5130f3eb53cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gv']/tbody/tr/th[5]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;gv&quot;)/tbody[1]/tr[@class=&quot;tb-header&quot;]/th[5][count(. | //th[@scope = 'col' and (text() = 'No Id' or . = 'No Id') and @ref_element = 'Object Repository/Daftar Upload/Page_DEV Agro Banking System/Page_DEV Agro Banking System/iframe_ampltpampgtBrowser anda tidak mendukung iframes.ampltpampgt']) = count(//th[@scope = 'col' and (text() = 'No Id' or . = 'No Id') and @ref_element = 'Object Repository/Daftar Upload/Page_DEV Agro Banking System/Page_DEV Agro Banking System/iframe_ampltpampgtBrowser anda tidak mendukung iframes.ampltpampgt'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>27323c4b-b474-46ab-bcf4-fecfd15ead94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>9d05e253-98ea-46b3-b5fb-a4b90fc016c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Id</value>
+      <webElementGuid>ddf5824f-de31-4848-b257-fbe3c7a22b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gv&quot;)/tbody[1]/tr[@class=&quot;tb-header&quot;]/th[5]</value>
+      <webElementGuid>882f589d-4611-46bd-b4d3-79f2c22e9b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Daftar Upload/Page_DEV Agro Banking System/Header/iframe_ampltpampgtBrowser anda tidak mendukung iframes.ampltpampgt</value>
+      <webElementGuid>a2441da8-06b0-413a-9460-21cd6fb251a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gv']/tbody/tr/th[5]</value>
+      <webElementGuid>027b53ce-993f-4061-b093-8740d43ef61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Id'])[1]/following::th[1]</value>
+      <webElementGuid>4719293f-05f9-4ac9-b118-25800321102e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::th[2]</value>
+      <webElementGuid>0c08e009-822c-41bf-85ee-f43467b4c6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[2]/preceding::th[1]</value>
+      <webElementGuid>658dda36-1355-4b7c-8741-104b81826d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kelamin'])[1]/preceding::th[2]</value>
+      <webElementGuid>0764b176-2e50-4013-a1e2-4c0a9206c28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]</value>
+      <webElementGuid>ba400b33-c26c-4b2b-9e94-1ec27e7cb184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'No Id' or . = 'No Id')]</value>
+      <webElementGuid>712ba890-1c31-478a-9683-8688815838b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

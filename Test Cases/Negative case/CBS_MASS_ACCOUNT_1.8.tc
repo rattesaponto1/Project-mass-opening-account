@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>upload file excel dengan parameter NIK tidak 16 digit</description>
+   <name>CBS_MASS_ACCOUNT_1.8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a437164e-a31c-4304-aa10-c8d65941ec12</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60658ad5-2a5f-4cbb-a2dc-f9d3d8adcba3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60658ad5-2a5f-4cbb-a2dc-f9d3d8adcba3</id>
+      <masked>false</masked>
+      <name>tanggal</name>
+   </variable>
+</TestCaseEntity>
