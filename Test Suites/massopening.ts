@@ -471,7 +471,7 @@
       <guid>c372e05f-d1af-4260-b94f-d3f40c0750e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Negative case/CBS_MASS_ACCOUNT_1.8</testCaseId>
+      <testCaseId>Test Cases/Negative case/CBS_MASS_ACCOUNT_1.11</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>955c2805-53e4-494b-8541-73ad28ab3f0a</id>

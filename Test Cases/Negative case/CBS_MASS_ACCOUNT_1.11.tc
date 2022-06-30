@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>upload file excel dengan parameter NIK tidak 16 digit</description>
-   <name>CBS_MASS_ACCOUNT_1.8</name>
+   <name>CBS_MASS_ACCOUNT_1.11</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a437164e-a31c-4304-aa10-c8d65941ec12</testCaseGuid>
